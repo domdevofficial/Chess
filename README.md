@@ -35,16 +35,6 @@ DomChess is a **fully responsive** Chess game with **AI, multiplayer mode, and a
 
 ---
 
-## 🗂️ Project Structure
-
-DomChess/  
-│── index.php        # Main Chess game  
-│── admin.php        # Admin panel  
-│── control.txt      # Stores banned users and settings  
-│── styles.css       # Game styling  
-│── README.md        # Documentation
----
-
 ## 🎯 How to Play  
 
 1️⃣ Choose **Multiplayer** or **Play vs AI** mode.  
